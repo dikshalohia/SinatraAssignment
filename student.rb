@@ -8,8 +8,8 @@ require './comment'
 DataMapper.setup(:default, ENV['DATABASE_URL']|| "sqlite3://#{Dir.pwd}/development.db")
 configure do
   enable :sessions
-  set :username, "vinay"
-  set :password, "welcome"
+  set :username, "umang"
+  set :password, "password"
 end
 
 
