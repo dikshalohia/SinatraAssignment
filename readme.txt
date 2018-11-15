@@ -6,8 +6,8 @@ It has some functionalties for students and comments where students can be added
 Comments can be added and validation is also given.
 
 
-Deployed at: https://umangfinaltest.herokuapp.com/
+Deployed at: https://dikshaapp.herokuapp.com/
 
 credentials to login to website:
-username: umang
+username: diksha
 password: password
